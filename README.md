@@ -15,3 +15,29 @@
         </h1>    
     </a> </p>
 </div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif" width="550" height="400"/>
+</div>
+
+---
+
+## :man_technologist: About Me :
+I'm qa engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- 💟 love quality products
+- 🍃 studying in the field of testing
+- 🍅 wanna becam a senior
+
+---
+
+### :hammer_and_wrench: Tools:
+<div>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="30"/>
+    <img src="https://github.com/ChromeDevTools/devtools-logo/blob/master/logos/svg/chrome-devtools-square-responsive.svg" width="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg?ysclid=loztxnvpku525885675" width="30"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" width="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="30"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="30"/>
+
+---
+
+#### 👨‍🎓 certificates:
