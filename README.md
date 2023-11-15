@@ -44,3 +44,10 @@ I'm qa engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 <div>
     <img src="https://sedtest-school.ru/wp-content/uploads/2023/10/yanis-chakuridis.png" width="300">
 </div>
+
+---
+
+##### :briefcase: Don't forget to check out my portfolio
+<div>
+    <a href="https://clck.ru/36Rajp">Test documentation for two projects</a>
+</div>
