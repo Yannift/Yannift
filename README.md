@@ -25,7 +25,7 @@
 I'm qa engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - 💟 love quality products
 - 🍃 studying in the field of testing
-- 🍅 wanna becam a senior
+- 🍅 wanna become a senior
 
 ---
 
